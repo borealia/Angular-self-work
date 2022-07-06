@@ -1,6 +1,6 @@
-# Angular JumpStart with TypeScript
+# Angular self-work with TypeScript
 
-The goal of this jumpstart app is to provide
+The goal of this self-work app is to provide
 a simple way to get started with Angular 2+ while also showing several key Angular features. The sample
 relies on the Angular CLI to build the application.
 
